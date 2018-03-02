@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\Downloads\Basic-Soundboard-Android-Application-master\Basic-Soundboard-Android-Application-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\Brian\Downloads\Basic-Soundboard-Android-Application-master\Basic-Soundboard-Android-Application-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a3412ad529705e867e3c95817bdc8cae9132537f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\.android\build-cache\3daeda04f7fef6ca74cc2dd434b4354324a14096\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="C:\Users\Brian\Downloads\Basic-Soundboard-Android-Application-master\Basic-Soundboard-Android-Application-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_103390b8149028c42eb5176a2f3a4923aec6595e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brian\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Brian\Downloads\Basic-Soundboard-Android-Application-master\Basic-Soundboard-Android-Application-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_c90cd7433eb843335f2e8eb0f237338a26504711.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\Downloads\Basic-Soundboard-Android-Application-master\Basic-Soundboard-Android-Application-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e25017eef92aae1fb8b954e69e10ab10dc18fa4e">
+        <dex dex="C:\Users\Brian\Downloads\Basic-Soundboard-Android-Application-master\Basic-Soundboard-Android-Application-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_375e516ec9fdff3c036fbc3bb0857ecd2332d0ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brian\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Brian\Downloads\Basic-Soundboard-Android-Application-master\Basic-Soundboard-Android-Application-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_c90cd7433eb843335f2e8eb0f237338a26504711\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Brian\.android\build-cache\3daeda04f7fef6ca74cc2dd434b4354324a14096\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="C:\Users\Brian\Downloads\Basic-Soundboard-Android-Application-master\Basic-Soundboard-Android-Application-master\app\build\intermediates\pre-dexed\debug\classes_103390b8149028c42eb5176a2f3a4923aec6595e.jar" />
+    </item>
+
+</items>
